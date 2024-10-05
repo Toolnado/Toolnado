@@ -28,7 +28,6 @@ I regularly implement unit tests to verify the correctness of code, ensuring tha
 I'm always looking to expand my skill set and stay updated with the latest in technology. Currently, I'm diving deeper into distributed systems and exploring new paradigms in backend development.
 
 ## 📫 How to Reach Me
-- GitHub: [toolnado](https://github.com/Toolnado)
 - Telegram: [toolnado](https://t.me/Toolnado)
 - X: [toolnado](https://twitter.com/toolnado)
 - LinkedIn: [Dmitrii Rudenskii](https://ru.linkedin.com/in/dmitrii-rudenskii-896520331)
