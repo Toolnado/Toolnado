@@ -28,7 +28,7 @@ I regularly implement unit tests to verify the correctness of code, ensuring tha
 I'm always looking to expand my skill set and stay updated with the latest in technology. Currently, I'm diving deeper into distributed systems and exploring new paradigms in backend development.
 
 ## 📫 How to Reach Me
-- GitHub: [profile](https://github.com/Toolnado)
+- GitHub: [toolnado](https://github.com/Toolnado)
 - Telegram: [toolnado](https://t.me/Toolnado)
 - Email: toolnado@gmail.com
 
