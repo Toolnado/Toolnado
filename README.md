@@ -30,6 +30,7 @@ I'm always looking to expand my skill set and stay updated with the latest in te
 ## 📫 How to Reach Me
 - GitHub: [toolnado](https://github.com/Toolnado)
 - Telegram: [toolnado](https://t.me/Toolnado)
+- X: [toolnado](https://twitter.com/toolnado)
 - Email: toolnado@gmail.com
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
