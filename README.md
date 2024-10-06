@@ -1,4 +1,4 @@
-# Hi, I'm Dmitry👋
+# Hi, I'm Dmitrii👋
 
 I'm a backend developer specializing in scalable and efficient systems. My expertise includes creating robust microservices, developing domain-specific languages (DSLs), and ensuring high performance through load and unit testing.
 
